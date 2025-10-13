@@ -473,3 +473,4 @@ Sync point 259
 Sync point 258
 Sync point 257
 Sync point 256
+Sync point 255
