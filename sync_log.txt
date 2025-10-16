@@ -476,3 +476,4 @@ Sync point 256
 Sync point 255
 Sync point 254
 Sync point 253
+Sync point 252
