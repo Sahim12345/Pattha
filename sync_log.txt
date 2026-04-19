@@ -661,3 +661,4 @@ Sync point 71
 Sync point 70
 Sync point 69
 Sync point 68
+Sync point 67
