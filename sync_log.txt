@@ -722,3 +722,4 @@ Sync point 10
 Sync point 9
 Sync point 8
 Sync point 7
+Sync point 6
