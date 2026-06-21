@@ -724,3 +724,4 @@ Sync point 8
 Sync point 7
 Sync point 6
 Sync point 5
+Sync point 4
