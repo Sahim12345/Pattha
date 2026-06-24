@@ -1,0 +1,1 @@
+- [Pattha app structure](pattha-structure.md) — Muslim student companion app for Seelow, Germany; halal grocery/meal/health tracker with Revolut-style dark UI
